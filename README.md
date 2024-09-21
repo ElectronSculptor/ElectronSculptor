@@ -11,7 +11,7 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 </p>
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://github.com/ElectronSculptor/Imagepresentation/blob/main/Blue%20Pixel%20Coming%20Soon%20Video.gif)" />
+  <img src="[Gif](https://github.com/ElectronSculptor/Imagepresentation/blob/main/Blue%20Pixel%20Coming%20Soon%20Video.gif)" />
 </p>
 ---
 
