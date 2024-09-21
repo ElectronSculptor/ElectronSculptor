@@ -6,8 +6,8 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 <p align="center">
   Passionate about Hardware, Processor design, and developing innovative projects.
-  It all started in 2021 when I repaired a GTX 960. From that day on, I've been completely passionate about Hardware, and hope to become a Processor Designer in the future.
-  I'm looking for an internship of at least 4 months from april 2025 in Europe, in the microelectronics field.
+  It all started in 2021 when I repaired a GTX 960. From that day on, I've been completely passionate about Hardware, and hope to become a **Processor Designer** in the future.
+  I'm looking for an **internship** of at least 4 months from april 2025 in Europe, in the microelectronics field.
 
 </p>
 
