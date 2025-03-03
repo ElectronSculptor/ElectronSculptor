@@ -40,7 +40,7 @@ Engineering student specializing in microelectronics and computer science at Éc
 ### 🚀 Favorite Projects
 
 - **[RISC-V Processor Design](https://github.com/ElectronSculptor/RISC-V-processor-design)** – Designing a RISC-V processor using Logisim-Evolution
-- **[ASCON128](https://github.com/ElectronSculptor/GTX-960-Repair)** – Implementing a cryptographic function (ASCON128) using SystemVerilog 
+- **[ASCON128](https://github.com/ElectronSculptor/ASCON128/)** – Implementing a cryptographic function (ASCON128) using SystemVerilog 
 
 ---
 
