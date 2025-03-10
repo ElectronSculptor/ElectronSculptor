@@ -40,7 +40,7 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 - **[RISC-V Processor Design](https://github.com/ElectronSculptor/RISC-V-processor-design)** – Designing a RISC-V processor using Logisim-Evolution
 - **[ASCON128](https://github.com/ElectronSculptor/Projet-ASCON128)** – Implementing a cryptographic function (ASCON128) using SystemVerilog
-- **[FPGA Project](https://github.com/ElectronSculptor/Projet_ECG_FPGA)** – Implementing cryptographic function in an FPGA
+- **[FPGA Project](https://github.com/ElectronSculptor/Projet_ECG_FPGA)** – Implementing ASCON in a Xilinx FPGA kit, using Vivado
 
 ---
 
