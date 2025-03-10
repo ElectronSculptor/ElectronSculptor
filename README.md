@@ -29,17 +29,18 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 ### 🔧 Technical Skills
 
-- **Programming Languages:** C, C++, Python, SystemVerilog, SQL
-- **Hardware Design:** FPGA, RISC-V, Logisim-Evolution
-- **Development Tools:** Git, Linux, Visual Studio Code
-- **Languages:** French (native), Armenian (native), English (fluent), German (intermediate), Russian (false beginner)
+- **Programming Languages:** C, C++, Python, SystemVerilog, SQL requests
+- **Hardware:** Computer Architecture, FPGA, RISC-V Architecture
+- **Development Tools:** Git, Linux, Visual Studio Code, Google Colab
+- **Languages:** French (native), Armenian (native), English (fluent), German (intermediate), Russian (beginner)
 
 ---
 
 ### 🚀 Favorite Projects
 
 - **[RISC-V Processor Design](https://github.com/ElectronSculptor/RISC-V-processor-design)** – Designing a RISC-V processor using Logisim-Evolution
-- **[ASCON128](https://github.com/ElectronSculptor/Projet-ASCON128)** – Implementing a cryptographic function (ASCON128) using SystemVerilog 
+- **[ASCON128](https://github.com/ElectronSculptor/Projet-ASCON128)** – Implementing a cryptographic function (ASCON128) using SystemVerilog
+- **[FPGA Project](https://github.com/ElectronSculptor/Projet_ECG_FPGA)** – Implementing cryptographic function in an FPGA
 
 ---
 
@@ -52,9 +53,8 @@ Engineering student specializing in microelectronics and computer science at Éc
 ### 🌱 Currently Learning
 
 - FPGA Architecture and Design
-- AI basics
-- Embedded Systems
-- Processor Design and Optimization
+- Embedded AI on STM32
+- Processor Architecture
 
 ---
 
@@ -67,5 +67,5 @@ Engineering student specializing in microelectronics and computer science at Éc
 ---
 
 <p align="center">
-  Let's build the future of hardware together!
+  Let's build the future of hardware together !
 </p>
