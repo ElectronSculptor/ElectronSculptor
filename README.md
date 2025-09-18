@@ -5,8 +5,8 @@ Engineering student specializing in microelectronics and computer science at Éc
 </p>
 
 <p align="center">
-  Passionate about Hardware, Processor design, and developing innovative projects.
-  It all started in 2021 when I repaired a GTX 960. From that day on, I've been completely passionate about Hardware, and hope to become a Processor Designer in the future.
+  Passionate about Hardware, IC design, and developing innovative projects.
+  It all started in 2019 when I repaired a GTX 960. From that day on, I've been completely passionate about Hardware, and hope to become an **Analog Designer** in the future.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gevorg-ishkhanyan/">
@@ -29,9 +29,10 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 ### 🔧 Technical Skills
 
-- **Programming Languages:** C, C++, Python, SystemVerilog, SQL requests
-- **Hardware:** Computer Architecture, FPGA, RISC-V Architecture
-- **Development Tools:** Git, Linux, Visual Studio Code, Google Colab
+- **Programming Languages:** C, Python, SQL requests
+- **Hardware Description Languages:** SystemVerilog, Verilog
+- **Hardware:** Computer Architecture, FPGA, RISC-V Architecture, Electronic foundamentals
+- **Development Tools:** Git, Linux, bash, Visual Studio Code, Copilot, LateX (for documentation)
 - **Languages:** French (native), Armenian (native), English (fluent), German (intermediate), Russian (beginner)
 
 ---
@@ -52,9 +53,10 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 ### 🌱 Currently Learning
 
-- FPGA Architecture and Design
-- Embedded AI on STM32
-- Processor Architecture
+- Cadence Virtuoso
+- Analog design & Layout
+- ASIC design
+- Codesign FPGA
 
 ---
 
