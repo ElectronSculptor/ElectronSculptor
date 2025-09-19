@@ -23,7 +23,7 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 </p>
 <p align="center">
-  <img src= "https://github.com/ElectronSculptor/Imagepresentation/blob/main/Blue%20Pixel%20Coming%20Soon%20Video.gif" />
+  <img src= "https://github.com/ElectronSculptor/Imagepresentation/blob/main/Coming%20Soon%20Video.gif" />
 </p>
 ---
 
