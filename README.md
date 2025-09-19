@@ -63,7 +63,6 @@ Engineering student specializing in microelectronics and computer science at Éc
 ### 📫 Contact Me
 
 - LinkedIn: [Gevorg Ishkhanyan](https://www.linkedin.com/in/gevorg-ishkhanyan/)
-- GitHub: [ElectronSculptor](https://github.com/ElectronSculptor)
 - Website: [gevorg.fr](https://gevorg.fr)
 
 ---
