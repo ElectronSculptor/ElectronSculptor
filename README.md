@@ -29,25 +29,19 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 ### 🔧 Technical Skills
 
-- **Programming Languages:** C, Python, SQL requests
+- **Programming Languages:** C, Python
 - **Hardware Description Languages:** SystemVerilog, Verilog
-- **Hardware:** Computer Architecture, FPGA, RISC-V Architecture, Electronic foundamentals
-- **Development Tools:** Git, Linux, bash, Visual Studio Code, Copilot, LateX (for documentation)
+- **Hardware:** Computer Architecture, FPGA Design, RISC-V Architecture, AMS 0.35u technology
+- **Tools:** Cadence Virtuoso, ADE-XL, AMD Vivado, KiCAD, PartQuest
+- **Environment:** Git, Linux, bash, Visual Studio Code
 - **Languages:** French (native), Armenian (native), English (fluent), German (intermediate), Russian (beginner)
 
 ---
 
-### 🚀 Favorite Projects
-
-- **[RISC-V Processor Design](https://github.com/ElectronSculptor/RISC-V-processor-design)** – Designing a RISC-V processor using Logisim-Evolution
-- **[ASCON128](https://github.com/ElectronSculptor/Projet-ASCON128)** – Implementing a cryptographic function (ASCON128) using SystemVerilog
-- **[FPGA Project](https://github.com/ElectronSculptor/Projet_ECG_FPGA)** – Implementing ASCON in a Xilinx FPGA kit, using Vivado
-
----
 
 ### 📚 Education
 
-- **École des Mines de Saint-Éticenne (ISMIN)** – Engineering Master's Degree specializing in microelectronics and computer science
+- **École des Mines de Saint-Éticenne (ISMIN)** – Master's Degree in Engineering, specialized in Microelectronics Design.
 
 ---
 
@@ -56,14 +50,15 @@ Engineering student specializing in microelectronics and computer science at Éc
 - Cadence Virtuoso
 - Analog design & Layout
 - ASIC design
-- Codesign FPGA
+- CMOS technology
+- Semiconductor physics
 
 ---
 
 ### 📫 Contact Me
 
 - LinkedIn: [Gevorg Ishkhanyan](https://www.linkedin.com/in/gevorg-ishkhanyan/)
-- Website: [gevorg.fr](https://gevorg.fr)
+- Website/Portfolio: [gevorg.fr](https://gevorg.fr)
 
 ---
 
