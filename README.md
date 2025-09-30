@@ -8,22 +8,22 @@ Engineering student specializing in microelectronics and computer science at Éc
   Passionate about Hardware, IC design, and developing innovative projects.
   It all started in 2019 when I repaired a GTX 960. From that day on, I've been completely passionate about Hardware, and hope to become an Analog IC Designer in the future.
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gevorg-ishkhanyan/">
-    <img src="https://github.com/ElectronSculptor/Imagepresentation/blob/main/LinkedIn%20Github.png" width = "170">
+    <img src="https://github.com/ElectronSculptor/ElectronSculptor/blob/main/LinkedIn%20Github.png" width = "170">
   </a>
   <a href="mailto:gevorg.ishkhanyan@etu.emse.fr">
-    <img src="https://github.com/ElectronSculptor/Imagepresentation/blob/main/Mail%20GITHUb.png" width="170">
+    <img src="https://github.com/ElectronSculptor/ElectronSculptor/blob/main/Mail%20GITHUb.png" width="170">
   </a>
   <a href="https://gevorg.fr">
-    <img src="https://github.com/ElectronSculptor/Imagepresentation/blob/main/WEB%20github.png" width="170">
+    <img src="https://github.com/ElectronSculptor/ElectronSculptor/blob/main/WEB%20github.png" width="170">
   </a>
 </p>
-
 
 </p>
 <p align="center">
-  <img src= "https://github.com/ElectronSculptor/Imagepresentation/blob/main/Coming%20Soon%20Video.gif" />
+  <img src= "https://github.com/ElectronSculptor/ElectronSculptor/blob/main/Coming%20Soon%20Video.gif" />
 </p>
 ---
 
@@ -47,11 +47,10 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 ### 🌱 Currently Learning
 
-- Cadence Virtuoso
-- Analog design & Layout
+- Cadence Virtuoso, Design and Layout
+- Circuit Verification using ADE-XL, DRC, and LVS using Cadence PVS system
 - ASIC design
 - CMOS technology
-- Semiconductor physics
 
 ---
 
