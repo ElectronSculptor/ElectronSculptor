@@ -6,7 +6,7 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 <p align="center">
   Passionate about Hardware, IC design, and developing innovative projects.
-  It all started in 2019 when I repaired a GTX 960. From that day on, I've been completely passionate about Hardware, and hope to become an Analog IC Designer in the future.
+  It all started in 2019 (I was 17) when I completely repaired a GTX 960 by replacing a faulty MOSFET. From that day on, I've been completely passionate about Hardware, and hope to become an Analog IC Designer in the future.
 
 
 <p align="center">
@@ -41,7 +41,7 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 ### 📚 Education
 
-- **École des Mines de Saint-Éticenne (ISMIN)** – Master's Degree in Engineering, specialized in Microelectronics Design.
+- **École des Mines de Saint-Étienne (ISMIN)** – Master's Degree in Electronics and Computer Science Engineering, specialized in Microelectronics Design.
 
 ---
 
