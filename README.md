@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Gevorg 👨‍💻</h1>
 
 <p align="center">
-Engineering student specializing in microelectronics and computer science at École des Mines de Saint-Étienne (ISMIN).
+Engineering Graduate specializing in microelectronics and computer science at École des Mines de Saint-Étienne (ISMIN).
 </p>
 
 <p align="center">
   Passionate about Hardware, IC design, and developing innovative projects.
-  It all started in 2019 (I was 17) when I completely repaired a GTX 960 by replacing a faulty MOSFET. From that day on, I've been completely passionate about Hardware, and hope to become an Analog IC Designer in the future.
+  It all started in 2019 (I was 17) when I completely repaired a GTX 960 by replacing a faulty MOSFET. From that day on, I've been completely passionate about Hardware, and I am on my way to become work as an IC Design Engineer.
 
 
 <p align="center">
@@ -30,11 +30,12 @@ Engineering student specializing in microelectronics and computer science at Éc
 ### 🔧 Technical Skills
 
 - **Programming Languages:** C, Python
-- **Hardware Description Languages:** SystemVerilog, Verilog
-- **Hardware:** Computer Architecture, FPGA Design, RISC-V Architecture, AMS 0.35u technology
-- **Tools:** Cadence Virtuoso, ADE-XL, AMD Vivado, KiCAD, PartQuest
-- **Environment:** Git, Linux, bash, Visual Studio Code
-- **Languages:** French (native), Armenian (native), English (fluent), German (intermediate), Russian (beginner)
+- **Digital Design:** SystemVerilog, Verilog, FPGA Design, Vivado, Vitis, RISC-V
+- **Analog IC Design:** Cadence Virtuoso, ADE-XL, DRC/LVS, Parasitic extraction, AMS 0.35u and TSMC 0.18u CMOS technologies
+- **Hardware:** Computer Architecture, KiCAD, Siemens EDA, PartQuest, MATLAB
+- **Environment:** Git, Linux, bash, Visual Studio Code, Putty, SSH, RDP
+- **AI/Automation:** n8n, Local LLM, local agents with API keys, Python scripts, Embedded AI on STM32 MCU
+- **Languages:** French (native), Armenian (native), English (fluent), German (intermediate)
 
 ---
 
@@ -45,12 +46,11 @@ Engineering student specializing in microelectronics and computer science at Éc
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently doing ...
 
-- Cadence Virtuoso, Design and Layout
-- Circuit Verification using ADE-XL, DRC, and LVS using Cadence PVS system
-- ASIC design
-- CMOS technology
+- Implementing a automatic job search module with AI agent linked to local LLM to scan, track and update my job applications
+- Trying to implement a RISC-V into a Basys3 FPGA board (this one is not easy...)
+- Design and Layout of a PLL in AMS 0.35u CMOS technology on Cadence Virtuoso
 
 ---
 
@@ -62,5 +62,5 @@ Engineering student specializing in microelectronics and computer science at Éc
 ---
 
 <p align="center">
-  Let's build the future of hardware together !
+  Let's build the future of hardware and chips together !
 </p>
